@@ -85,11 +85,11 @@
     margin: auto auto;
 
     /*perspective*/
-    -webkit-perspective:300px;
-    -moz-perspective:300px;
-    -ms-perspective:300px;
-    -o-perspective:300px;
-    perspective:300px;
+    -webkit-perspective:200px;
+    -moz-perspective:200px;
+    -ms-perspective:200px;
+    -o-perspective:200px;
+    perspective:200px;
     /*transform-style*/
     -webkit-transform-style:preserve-3d;
     -moz-transform-style:preserve-3d;
@@ -97,11 +97,11 @@
     -o-transform-style:preserve-3d;
     transform-style:preserve-3d;
     /*transform*/
-    -webkit-transform:translateY(200px) scale(5);
-    -moz-transform:translateY(200px) scale(5);
-    -ms-transform:translateY(200px) scale(5);
-    -o-transform:translateY(200px) scale(5);
-    transform:translateY(200px) scale(5);
+    -webkit-transform:translateY(128px) scale(5);
+    -moz-transform:translateY(128px) scale(5);
+    -ms-transform:translateY(128px) scale(5);
+    -o-transform:translateY(128px) scale(5);
+    transform:translateY(128px) scale(5);
 }
 #backbox{
     width:100%;
